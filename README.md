@@ -1,4 +1,4 @@
-# Linear-Regression-Assignment
+# Linear-Regression
 
 ## Machine learning  
 - Creating a linear regression model using the training data and testing it. And plotting biass-variance tradeoff.  
